@@ -1,0 +1,9 @@
+# Samuel's Additions
+export PATH=$PATH:/usr/local/mysql/bin
+export EDITOR='mate -w'
+alias s=svn
+alias ls='ls -FG'
+alias l='ls -l'
+
+declare -x CLICOLOR=1
+declare -x LSCOLORS=gxfxcxdxbxegedabagacad
